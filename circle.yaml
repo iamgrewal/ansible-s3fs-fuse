@@ -4,6 +4,6 @@ dependencies:
 
 test:
   pre:
-    - sudo ln -s ansible-role-s3fs-fuse../bastiaanvanassche.s3fs-fuse
+    - sudo ln -s ansible-role-bastiaanvanassche.s3fs-fuse../bastiaanvanassche.s3fs-fuse
   override:
     - tests/testsing.sh
