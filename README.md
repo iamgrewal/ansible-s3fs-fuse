@@ -5,7 +5,7 @@ Ansible role for mounting an AWS S3 bucket via FUSE. The role installs and confi
 
 ## Requirements
 
-An AWS account and an existing S3 bucket. Tested on Ubuntu 12.04, 14.04, 16.04 and CentOS 7.
+An AWS account and an existing S3 bucket. Tested on Ubuntu 22.04, 14.04, 16.04, Debian and CentOS 7.
 
 ## Role Variables
 
