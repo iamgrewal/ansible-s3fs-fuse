@@ -1,11 +1,11 @@
 ---
 s3fs_fuse_version: "1.80"
-s3fs_fuse_access_key_id:UaimJgquEfwiYIu8ibiX
-s3fs_fuse_secret_access_key:WEaYiBcDtRtnvXd1ssyP3NitgYfFrDmrSn0GsXJo
-s3fs_fuse_bucket:docker10gb
+s3fs_fuse_access_key_id:sdfsf
+s3fs_fuse_secret_access_key:xxxx
+s3fs_fuse_bucket:xx
 s3fs_fuse_mount_point: "/mnt/idrivee2"
 s3fs_fuse_mount_point_permissions: "0777"
-s3fs_fuse_url: "https://docker10gb.c7j6.ch.idrivee2-30.com"
+s3fs_fuse_url: "https://example.com"
 s3fs_fuse_option_flags:
   - "allow_other"
   - "nonempty"
